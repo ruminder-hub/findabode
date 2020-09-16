@@ -6,9 +6,9 @@
 FindAbode is an online platform to provide public, particularly students, to search for accommodation rentals at a new location. The application provides users with a flexible platform where the user can select an apartment from a wide variety of options available
 
 ## Built With
-Frontend: React, Bootstrap, HTML, CSS
-Backend: Nodejs
-Database: Mongodb
+* Frontend: React, Bootstrap, HTML, CSS
+* Backend: Nodejs
+* Database: Mongodb
 
 ## Information Architecture
 Figure 1 shows the information architecture of our application. Pages that are having blue colours, requires users to log in. Pages that are having green colour are the pages that only admin can access. Pages that are having white colour can be accessed by anyone without logging in.
